@@ -1,0 +1,20 @@
+embeddings {
+  tensor_name: "sku:00494"
+  metadata_path: "00494/sku\\metadata.tsv"
+  tensor_path: "00494/sku\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "month:00494"
+  metadata_path: "00494/month\\metadata.tsv"
+  tensor_path: "00494/month\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "agency:00494"
+  metadata_path: "00494/agency\\metadata.tsv"
+  tensor_path: "00494/agency\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "special_days:00494"
+  metadata_path: "00494/special_days\\metadata.tsv"
+  tensor_path: "00494/special_days\\tensors.tsv"
+}
